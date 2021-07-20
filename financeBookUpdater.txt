@@ -1,2 +1,6 @@
 1.4.2
+<<<<<<< HEAD
 https://raw.githubusercontent.com/nassendg/Finance-Book/main/v.1.4.2/script.py
+=======
+https://raw.githubusercontent.com/nassendg/Finance-Book/main/v.1.4.2/script.py
+>>>>>>> b50d34666e885f08c7dc5480ea68e2ce0a282300
