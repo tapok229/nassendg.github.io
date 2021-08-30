@@ -1,1 +1,1 @@
-1.4.2;https://raw.githubusercontent.com/nassendg/Finance-Book/main/v.1.4.2/script.py
+1.4.2;https://raw.githubusercontent.com/nassendg/Finance-Book/main/v.1.4.2/script.py;http://cdn.sallysbakingaddiction.com/wp-content/uploads/2012/01/mm-cookies.jpg
